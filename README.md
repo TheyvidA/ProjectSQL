@@ -1,9 +1,9 @@
 # Adebayo David
 
-adebayodavid94@gmail.com
+Email-adebayodavid94@gmail.com
 
-Adebayo David
+Username-Adebayo David
 
-Mobile,Frontend,Backend,Design
+Tracks-Mobile,Frontend,Backend,Design
 
-Python,Java,Nodejs,Php,C#
+Course Registered-Python,Java,Nodejs,Php,C#
